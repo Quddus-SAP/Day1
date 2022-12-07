@@ -1,0 +1,22 @@
+{
+  "name": "btp",
+  "version": "1.0.0",
+  "description": "Day1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quddus-SAP/Day1.git"
+  },
+  "author": "Quddus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quddus-SAP/Day1/issues"
+  },
+  "homepage": "https://github.com/Quddus-SAP/Day1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
